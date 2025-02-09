@@ -43,4 +43,4 @@ Este projeto utiliza um display OLED SSD1306 e uma matriz de LEDs 5x5 para exibi
 3. Utilize os botões para alternar o estado dos LEDs e observe a exibição no display OLED e na matriz de LEDs.
 
 ## Vídeo Demonstrativo
-Assista ao vídeo demonstrativo deste projeto no YouTube: [https://youtu.be/P_jkKU5OSe8](#)
+Assista ao vídeo demonstrativo deste projeto no YouTube: [https://youtu.be/P_jkKU5OSe8]
